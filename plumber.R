@@ -16,7 +16,7 @@ library(config)
 # =============================================================================
 # API Metadata
 # =============================================================================
-#* @apiTitle OneBenthic Dredging API
+#* @apiTitle NAMAAP Marine Aggregate Dredging Footprint API
 #* @apiDescription Endpoints to query dredged polygons by year and country.
 #* @apiVersion 1.0.0
 
